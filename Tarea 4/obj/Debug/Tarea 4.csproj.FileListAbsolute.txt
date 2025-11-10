@@ -1,0 +1,8 @@
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\bin\Debug\Tarea 4.exe.config
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\bin\Debug\Tarea 4.exe
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\bin\Debug\Tarea 4.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\obj\Debug\Tarea 4.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\obj\Debug\Tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\obj\Debug\Tarea 4.exe
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\obj\Debug\Tarea 4.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Tarea 4\obj\Debug\Tarea 4.exe.config
