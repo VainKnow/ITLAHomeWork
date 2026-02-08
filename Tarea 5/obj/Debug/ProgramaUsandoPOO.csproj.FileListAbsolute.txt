@@ -1,0 +1,8 @@
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\bin\Debug\ProgramaUsandoPOO.exe.config
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\bin\Debug\ProgramaUsandoPOO.exe
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\bin\Debug\ProgramaUsandoPOO.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\obj\Debug\ProgramaUsandoPOO.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\obj\Debug\ProgramaUsandoPOO.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\obj\Debug\ProgramaUsandoPOO.exe
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\obj\Debug\ProgramaUsandoPOO.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\ProgramaUsandoPOO\obj\Debug\ProgramaUsandoPOO.exe.config
