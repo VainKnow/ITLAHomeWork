@@ -1,0 +1,8 @@
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\bin\Debug\Prueba.exe
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\bin\Debug\Prueba.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\obj\Debug\Prueba.exe
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\obj\Debug\Prueba.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Prueba\obj\Debug\Prueba.exe.config

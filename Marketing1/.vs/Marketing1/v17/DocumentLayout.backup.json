@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Marketing1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAB0903-FA18-B6AC-3863-461BD8EC97B1}|..\\MarketingAgency.API\\MarketingAgency.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\marketingagency.api\\marketingagency.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C2BDB-3E8D-406C-A547-52CB41CA0ADD}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C2BDB-3E8D-406C-A547-52CB41CA0ADD}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46212679-1D52-4D58-849F-40A7F2A3BB1E}|Marketing1.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\marketing1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46212679-1D52-4D58-849F-40A7F2A3BB1E}|Marketing1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\entities\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAB0903-FA18-B6AC-3863-461BD8EC97B1}|..\\MarketingAgency.API\\MarketingAgency.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\marketingagency.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39997C1-67D7-410C-A53B-71D7F6D0B639}|..\\Domain\\Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketingAgency.API",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\MarketingAgency.API\\MarketingAgency.API.csproj",
+              "RelativeDocumentMoniker": "..\\MarketingAgency.API\\MarketingAgency.API.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\MarketingAgency.API\\MarketingAgency.API.csproj",
+              "RelativeToolTip": "..\\MarketingAgency.API\\MarketingAgency.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T23:37:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Invoice.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Invoice.cs",
+              "RelativeToolTip": "..\\Domain\\Invoice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:36:03.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Project.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Project.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Project.cs",
+              "RelativeToolTip": "..\\Domain\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:34:30.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\MarketingAgency.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MarketingAgency.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\MarketingAgency.API\\appsettings.json",
+              "RelativeToolTip": "..\\MarketingAgency.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T23:28:07.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Campaign.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Campaign.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Campaign.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Campaign.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:55:18.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Service.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Service.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:54:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:54:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:52:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T22:51:41.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Marketing1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Marketing1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T22:49:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:26:58.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T22:28:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Infrastructure\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Infrastructure\\Data\\DataContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:34:40.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
