@@ -1,0 +1,12 @@
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\bin\Debug\net8.0\SenderismoClub.Domain.deps.json
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\bin\Debug\net8.0\SenderismoClub.Domain.dll
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\bin\Debug\net8.0\SenderismoClub.Domain.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.AssemblyInfo.cs
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.sourcelink.json
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.dll
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\refint\SenderismoClub.Domain.dll
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\SenderismoClub.Domain.pdb
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Proyecto de aprendizaje\SenderismoClub.Domain\obj\Debug\net8.0\ref\SenderismoClub.Domain.dll

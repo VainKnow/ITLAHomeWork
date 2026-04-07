@@ -1,0 +1,6 @@
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Marketing1\obj\Debug\net9.0\Marketing1.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Marketing1\obj\Debug\net9.0\Marketing1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Marketing1\obj\Debug\net9.0\Marketing1.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Marketing1\obj\Debug\net9.0\Marketing1.AssemblyInfo.cs
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Marketing1\obj\Debug\net9.0\Marketing1.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\GITHUB\ITLAHomeWork\Marketing1\obj\Debug\net9.0\Marketing1.sourcelink.json
