@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SenderismoClub.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f987b40cebde2c410717f0118162c4de829bd046")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5b6bf749de282b0f02915fe978781d86a3483f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SenderismoClub.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SenderismoClub.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

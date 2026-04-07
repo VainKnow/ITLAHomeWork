@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -127,18 +127,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateMemberDto.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T20:01:30.489Z"
             },
             {
               "$type": "Document",
@@ -163,6 +151,31 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T19:38:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Excursion.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:20:36.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:01:30.489Z"
             },
             {
               "$type": "Document",
@@ -343,19 +356,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T19:20:52.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Excursion.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:20:36.554Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
