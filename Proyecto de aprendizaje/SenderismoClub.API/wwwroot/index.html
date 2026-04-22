@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Club de Senderismo</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f4f8;
+      color: #2d3748;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(135deg, #2d6a4f, #40916c);
+      color: white;
+      padding: 1.2rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    header h1 { font-size: 1.5rem; font-weight: 600; }
+    header span { font-size: 1.8rem; }
+
+    nav {
+      background: white;
+      display: flex;
+      gap: 0;
+      border-bottom: 2px solid #e2e8f0;
+      padding: 0 2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+    nav button {
+      background: none;
+      border: none;
+      padding: 1rem 1.5rem;
+      cursor: pointer;
+      font-size: 0.95rem;
+      color: #718096;
+      border-bottom: 3px solid transparent;
+      transition: all 0.2s;
+      font-weight: 500;
+    }
+    nav button:hover { color: #2d6a4f; }
+    nav button.active { color: #2d6a4f; border-bottom-color: #2d6a4f; font-weight: 600; }
+
+    main { max-width: 1000px; margin: 2rem auto; padding: 0 1.5rem; }
+
+    .tab { display: none; }
+    .tab.active { display: block; }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+    }
+    .card h2 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #2d6a4f;
+      margin-bottom: 1.2rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    .form-grid .full { grid-column: 1 / -1; }
+
+    label { display: block; font-size: 0.85rem; font-weight: 500; margin-bottom: 0.3rem; color: #4a5568; }
+    input, select {
+      width: 100%;
+      padding: 0.6rem 0.9rem;
+      border: 1.5px solid #e2e8f0;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      transition: border-color 0.2s;
+      background: #fafafa;
+    }
+    input:focus, select:focus { outline: none; border-color: #40916c; background: white; }
+
+    .btn {
+      background: #2d6a4f;
+      color: white;
+      border: none;
+      padding: 0.65rem 1.6rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-weight: 500;
+      margin-top: 0.5rem;
+      transition: background 0.2s;
+    }
+    .btn:hover { background: #1b4332; }
+    .btn:active { transform: scale(0.98); }
+
+    .alert {
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      margin-top: 0.8rem;
+      display: none;
+    }
+    .alert.success { background: #d1fae5; color: #065f46; border: 1px solid #6ee7b7; }
+    .alert.error   { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th { background: #f7fafc; color: #4a5568; font-weight: 600; padding: 0.7rem 1rem; text-align: left; border-bottom: 2px solid #e2e8f0; }
+    td { padding: 0.65rem 1rem; border-bottom: 1px solid #f0f4f8; }
+    tr:hover td { background: #f7fafc; }
+    .empty { color: #a0aec0; text-align: center; padding: 1.5rem; font-style: italic; }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 9999px;
+      font-size: 0.78rem;
+      font-weight: 600;
+    }
+    .badge-easy   { background: #d1fae5; color: #065f46; }
+    .badge-medium { background: #fef3c7; color: #92400e; }
+    .badge-hard   { background: #fee2e2; color: #991b1b; }
+    .badge-beg    { background: #e0f2fe; color: #075985; }
+    .badge-int    { background: #ede9fe; color: #5b21b6; }
+    .badge-adv    { background: #fce7f3; color: #9d174d; }
+  </style>
+</head>
+<body>
+
+<header>
+  <span>🥾</span>
+  <h1>Club de Senderismo</h1>
+</header>
+
+<nav>
+  <button class="active" onclick="showTab('miembros', this)">👤 Miembros</button>
+  <button onclick="showTab('rutas', this)">🗺️ Rutas</button>
+  <button onclick="showTab('excursiones', this)">🏕️ Excursiones</button>
+  <button onclick="showTab('inscripciones', this)">📋 Inscripciones</button>
+</nav>
+
+<main>
+
+
+  <div id="tab-miembros" class="tab active">
+    <div class="card">
+      <h2>Registrar nuevo miembro</h2>
+      <form id="form-member" onsubmit="submitMember(event)">
+        <div class="form-grid">
+          <div>
+            <label>Nombre</label>
+            <input type="text" id="m-name" placeholder="Juan Pérez" required />
+          </div>
+          <div>
+            <label>Teléfono</label>
+            <input type="text" id="m-phone" placeholder="809-555-0000" required />
+          </div>
+          <div>
+            <label>Edad</label>
+            <input type="number" id="m-age" min="10" max="100" placeholder="25" required />
+          </div>
+          <div>
+            <label>Nivel</label>
+            <select id="m-level">
+              <option value="1">Principiante</option>
+              <option value="2">Intermedio</option>
+              <option value="3">Avanzado</option>
+            </select>
+          </div>
+        </div>
+        <button class="btn" type="submit">Guardar miembro</button>
+        <div id="alert-member" class="alert"></div>
+      </form>
+    </div>
+    <div class="card">
+      <h2>Lista de miembros</h2>
+      <table>
+        <thead><tr><th>#</th><th>Nombre</th><th>Edad</th><th>Nivel</th><th>Teléfono</th></tr></thead>
+        <tbody id="tbody-members"><tr><td colspan="5" class="empty">Cargando...</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+
+  <div id="tab-rutas" class="tab">
+    <div class="card">
+      <h2>Registrar nueva ruta</h2>
+      <form id="form-route" onsubmit="submitRoute(event)">
+        <div class="form-grid">
+          <div>
+            <label>Nombre de la ruta</label>
+            <input type="text" id="r-name" placeholder="Pico Duarte" required />
+          </div>
+          <div>
+            <label>Ubicación</label>
+            <input type="text" id="r-location" placeholder="La Ciénaga, Jarabacoa" required />
+          </div>
+          <div>
+            <label>Distancia (km)</label>
+            <input type="number" id="r-distance" step="0.1" min="0.1" placeholder="24.5" required />
+          </div>
+          <div>
+            <label>Dificultad</label>
+            <select id="r-difficulty">
+              <option value="1">Fácil</option>
+              <option value="2">Media</option>
+              <option value="3">Difícil</option>
+            </select>
+          </div>
+        </div>
+        <button class="btn" type="submit">Guardar ruta</button>
+        <div id="alert-route" class="alert"></div>
+      </form>
+    </div>
+    <div class="card">
+      <h2>Lista de rutas</h2>
+      <table>
+        <thead><tr><th>#</th><th>Nombre</th><th>Ubicación</th><th>Distancia</th><th>Dificultad</th></tr></thead>
+        <tbody id="tbody-routes"><tr><td colspan="5" class="empty">Cargando...</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+
+  <div id="tab-excursiones" class="tab">
+    <div class="card">
+      <h2>Crear nueva excursión</h2>
+      <form id="form-excursion" onsubmit="submitExcursion(event)">
+        <div class="form-grid">
+          <div>
+            <label>Fecha</label>
+            <input type="date" id="e-date" required />
+          </div>
+          <div>
+            <label>Ruta</label>
+            <select id="e-routeId" required></select>
+          </div>
+        </div>
+        <button class="btn" type="submit">Guardar excursión</button>
+        <div id="alert-excursion" class="alert"></div>
+      </form>
+    </div>
+    <div class="card">
+      <h2>Lista de excursiones</h2>
+      <table>
+        <thead><tr><th>#</th><th>Fecha</th><th>Ruta</th><th>Dificultad</th></tr></thead>
+        <tbody id="tbody-excursions"><tr><td colspan="4" class="empty">Cargando...</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+
+ 
+  <div id="tab-inscripciones" class="tab">
+    <div class="card">
+      <h2>Inscribir miembro a excursión</h2>
+      <form id="form-reg" onsubmit="submitRegistration(event)">
+        <div class="form-grid">
+          <div>
+            <label>Miembro</label>
+            <select id="reg-memberId" required></select>
+          </div>
+          <div>
+            <label>Excursión</label>
+            <select id="reg-excursionId" required></select>
+          </div>
+        </div>
+        <button class="btn" type="submit">Inscribir</button>
+        <div id="alert-reg" class="alert"></div>
+      </form>
+    </div>
+  </div>
+
+</main>
+
+<script>
+  const API = '';
+
+  function showTab(name, btn) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+    document.getElementById('tab-' + name).classList.add('active');
+    btn.classList.add('active');
+
+    if (name === 'excursiones') loadRoutesIntoSelect();
+    if (name === 'inscripciones') { loadMembersIntoSelect(); loadExcursionsIntoSelect(); }
+  }
+
+  function showAlert(id, type, msg) {
+    const el = document.getElementById(id);
+    el.className = 'alert ' + type;
+    el.textContent = msg;
+    el.style.display = 'block';
+    setTimeout(() => el.style.display = 'none', 4000);
+  }
+
+  function diffBadge(d) {
+    if (d === 1 || d === 'Easy')   return '<span class="badge badge-easy">Fácil</span>';
+    if (d === 2 || d === 'Medium') return '<span class="badge badge-medium">Media</span>';
+    return '<span class="badge badge-hard">Difícil</span>';
+  }
+
+  function levelBadge(l) {
+    if (l === 1 || l === 'Beginner')     return '<span class="badge badge-beg">Principiante</span>';
+    if (l === 2 || l === 'Intermediate') return '<span class="badge badge-int">Intermedio</span>';
+    return '<span class="badge badge-adv">Avanzado</span>';
+  }
+
+  
+  async function loadMembers() {
+    const res = await fetch(API + '/api/members');
+    const data = await res.json();
+    const tb = document.getElementById('tbody-members');
+    if (!data.length) { tb.innerHTML = '<tr><td colspan="5" class="empty">No hay miembros registrados</td></tr>'; return; }
+    tb.innerHTML = data.map(m => `
+      <tr>
+        <td>${m.id}</td>
+        <td>${m.name}</td>
+        <td>${m.age}</td>
+        <td>${levelBadge(m.level)}</td>
+        <td>${m.phone}</td>
+      </tr>`).join('');
+  }
+
+  async function submitMember(e) {
+    e.preventDefault();
+    const body = {
+      name:  document.getElementById('m-name').value,
+      age:   parseInt(document.getElementById('m-age').value),
+      level: parseInt(document.getElementById('m-level').value),
+      phone: document.getElementById('m-phone').value
+    };
+    try {
+      const res = await fetch(API + '/api/members', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      if (!res.ok) { const err = await res.json(); throw new Error(err.message || 'Error al guardar'); }
+      showAlert('alert-member', 'success', '✅ Miembro registrado correctamente');
+      document.getElementById('form-member').reset();
+      loadMembers();
+    } catch (err) {
+      showAlert('alert-member', 'error', '❌ ' + err.message);
+    }
+  }
+
+  
+  async function loadRoutes() {
+    const res = await fetch(API + '/api/routes');
+    const data = await res.json();
+    const tb = document.getElementById('tbody-routes');
+    if (!data.length) { tb.innerHTML = '<tr><td colspan="5" class="empty">No hay rutas registradas</td></tr>'; return; }
+    tb.innerHTML = data.map(r => `
+      <tr>
+        <td>${r.id}</td>
+        <td>${r.name}</td>
+        <td>${r.location}</td>
+        <td>${r.distanceKm} km</td>
+        <td>${diffBadge(r.difficulty)}</td>
+      </tr>`).join('');
+  }
+
+  async function submitRoute(e) {
+    e.preventDefault();
+    const body = {
+      name:       document.getElementById('r-name').value,
+      location:   document.getElementById('r-location').value,
+      distanceKm: parseFloat(document.getElementById('r-distance').value),
+      difficulty: parseInt(document.getElementById('r-difficulty').value)
+    };
+    try {
+      const res = await fetch(API + '/api/routes', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      if (!res.ok) { const err = await res.json(); throw new Error(err.message || 'Error al guardar'); }
+      showAlert('alert-route', 'success', '✅ Ruta guardada correctamente');
+      document.getElementById('form-route').reset();
+      loadRoutes();
+    } catch (err) {
+      showAlert('alert-route', 'error', '❌ ' + err.message);
+    }
+  }
+
+  async function loadRoutesIntoSelect() {
+    const res = await fetch(API + '/api/routes');
+    const data = await res.json();
+    const sel = document.getElementById('e-routeId');
+    sel.innerHTML = data.length
+      ? data.map(r => `<option value="${r.id}">${r.name} (${r.location})</option>`).join('')
+      : '<option value="">— No hay rutas —</option>';
+  }
+
+  
+  async function loadExcursions() {
+    const res = await fetch(API + '/api/excursions');
+    const data = await res.json();
+    const tb = document.getElementById('tbody-excursions');
+    if (!data.length) { tb.innerHTML = '<tr><td colspan="4" class="empty">No hay excursiones registradas</td></tr>'; return; }
+    tb.innerHTML = data.map(ex => `
+      <tr>
+        <td>${ex.id}</td>
+        <td>${new Date(ex.date).toLocaleDateString('es-DO')}</td>
+        <td>${ex.route ? ex.route.name : '—'}</td>
+        <td>${ex.route ? diffBadge(ex.route.difficulty) : '—'}</td>
+      </tr>`).join('');
+  }
+
+  async function submitExcursion(e) {
+    e.preventDefault();
+    const body = {
+      date:    document.getElementById('e-date').value + 'T00:00:00',
+      routeId: parseInt(document.getElementById('e-routeId').value)
+    };
+    try {
+      const res = await fetch(API + '/api/excursions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      if (!res.ok) { const err = await res.json(); throw new Error(err.message || 'Error al guardar'); }
+      showAlert('alert-excursion', 'success', '✅ Excursión creada correctamente');
+      document.getElementById('form-excursion').reset();
+      loadExcursions();
+    } catch (err) {
+      showAlert('alert-excursion', 'error', '❌ ' + err.message);
+    }
+  }
+
+  async function loadExcursionsIntoSelect() {
+    const res = await fetch(API + '/api/excursions');
+    const data = await res.json();
+    const sel = document.getElementById('reg-excursionId');
+    sel.innerHTML = data.length
+      ? data.map(ex => `<option value="${ex.id}">${new Date(ex.date).toLocaleDateString('es-DO')} — ${ex.route ? ex.route.name : 'Ruta #' + ex.routeId}</option>`).join('')
+      : '<option value="">— No hay excursiones —</option>';
+  }
+
+  async function loadMembersIntoSelect() {
+    const res = await fetch(API + '/api/members');
+    const data = await res.json();
+    const sel = document.getElementById('reg-memberId');
+    sel.innerHTML = data.length
+      ? data.map(m => `<option value="${m.id}">${m.name}</option>`).join('')
+      : '<option value="">— No hay miembros —</option>';
+  }
+
+  
+  async function submitRegistration(e) {
+    e.preventDefault();
+    const memberId   = document.getElementById('reg-memberId').value;
+    const excursionId = document.getElementById('reg-excursionId').value;
+    try {
+      const res = await fetch(`${API}/api/registrations?memberId=${memberId}&excursionId=${excursionId}`, {
+        method: 'POST'
+      });
+      if (!res.ok) { const err = await res.json(); throw new Error(err.message || 'Error al inscribir'); }
+      showAlert('alert-reg', 'success', '✅ Miembro inscrito correctamente');
+      document.getElementById('form-reg').reset();
+    } catch (err) {
+      showAlert('alert-reg', 'error', '❌ ' + err.message);
+    }
+  }
+
+  
+  loadMembers();
+  loadRoutes();
+  loadExcursions();
+</script>
+</body>
+</html>
