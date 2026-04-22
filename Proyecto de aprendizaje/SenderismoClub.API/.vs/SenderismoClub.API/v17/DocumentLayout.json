@@ -3,28 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\excursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\services\\excursionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\dtos\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\senderismoclub.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\services\\excursionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\iexcursionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\dtos\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,73 +41,80 @@
       "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\senderismoclub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:senderismoclub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\controllers\\excursionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:controllers\\excursionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\senderismoclub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:senderismoclub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\migrations\\20260421234512_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\senderismoclub.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C92BF3A6-EFC3-462F-A324-E8F34663E483}|..\\SenderismoClub.Infrastructure\\SenderismoClub.Infrastructure.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\enums\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\controllers\\excursionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:controllers\\excursionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\ProyectoProductosAPI\\ProyectoProductosAPI\\ProyectoProductosAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\iexcursionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\enums\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\enums\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\senderismoclub.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\senderismoclub.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5333B4EB-5936-47E1-8C89-A33F5A1DAC8D}|SenderismoClub.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2B195C-4EC0-4297-8E20-A88F1A8758E1}|..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.persistence\\senderismoclub.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\enums\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C92BF3A6-EFC3-462F-A324-E8F34663E483}|..\\SenderismoClub.Infrastructure\\SenderismoClub.Infrastructure.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.infrastructure\\senderismoclub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C92BF3A6-EFC3-462F-A324-E8F34663E483}|..\\SenderismoClub.Infrastructure\\SenderismoClub.Infrastructure.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1A96FB-9A03-4D34-8F26-B0987274B99D}|..\\SenderismoClub.Application\\SenderismoClub.Application.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F83F8A-DAA3-490B-A692-2AC56B9415F0}|..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj|c:\\users\\jesus\\source\\repos\\github\\itlahomework\\proyecto de aprendizaje\\senderismoclub.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -114,7 +127,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -131,43 +144,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:59:13.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:38:35.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Excursion.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:20:36.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CreateMemberDto.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
@@ -175,79 +151,73 @@
               "RelativeToolTip": "..\\SenderismoClub.Application\\DTOs\\CreateMemberDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T20:01:30.489Z"
+              "WhenOpened": "2026-04-07T20:01:30.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ExcursionsController.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ExcursionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ExcursionsController.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ExcursionsController.cs",
-              "RelativeToolTip": "Controllers\\ExcursionsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IExcursionService.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:38:13.259Z"
+              "WhenOpened": "2026-04-07T19:31:40.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MembersController.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\MembersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MembersController.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\MembersController.cs",
-              "RelativeToolTip": "Controllers\\MembersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:37:50.479Z"
+              "WhenOpened": "2026-04-07T19:31:59.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoutesController.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\RoutesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoutesController.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\RoutesController.cs",
-              "RelativeToolTip": "Controllers\\RoutesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:37:12.43Z"
+              "WhenOpened": "2026-04-07T19:30:40.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegistrationService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\RegistrationService.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Services\\RegistrationService.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\RegistrationService.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\Services\\RegistrationService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:33:37.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ExcursionService.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\ExcursionService.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Services\\ExcursionService.cs",
               "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\ExcursionService.cs",
               "RelativeToolTip": "..\\SenderismoClub.Application\\Services\\ExcursionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:33:13.487Z"
+              "WhenOpened": "2026-04-07T19:33:13.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MemberService.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\MemberService.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Services\\MemberService.cs",
               "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\MemberService.cs",
               "RelativeToolTip": "..\\SenderismoClub.Application\\Services\\MemberService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:32:55.376Z"
+              "WhenOpened": "2026-04-07T19:32:55.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -259,95 +229,25 @@
               "RelativeToolTip": "..\\SenderismoClub.Application\\Services\\RouteService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:32:32.642Z"
+              "WhenOpened": "2026-04-07T19:32:32.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IRegistrationService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IRegistrationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Excursion.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Excursion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:31:59.286Z"
+              "WhenOpened": "2026-04-07T19:20:36.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IExcursionService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IExcursionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:31:40.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IMemberService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:31:11.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IRouteService.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IRouteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:30:40.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:26:49.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-07T19:26:25.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:25:36.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 1,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Registration.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Registration.cs",
@@ -355,11 +255,296 @@
               "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Registration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:20:52.642Z"
+              "WhenOpened": "2026-04-07T19:20:52.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Route.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Route.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:19:32.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:26:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:59:13.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:38:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoutesController.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\RoutesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoutesController.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\RoutesController.cs",
+              "RelativeToolTip": "Controllers\\RoutesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:37:12.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcursionsController.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ExcursionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExcursionsController.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\ExcursionsController.cs",
+              "RelativeToolTip": "Controllers\\ExcursionsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:38:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-22T00:03:12.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SenderismoClub.API.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\SenderismoClub.API.csproj",
+              "RelativeDocumentMoniker": "SenderismoClub.API.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\SenderismoClub.API.csproj",
+              "RelativeToolTip": "SenderismoClub.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T19:14:37.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260421234512_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Migrations\\20260421234512_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\Migrations\\20260421234512_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Migrations\\20260421234512_InitialCreate.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Persistence\\Migrations\\20260421234512_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T00:01:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Class1.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:10:23.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T00:02:06.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Class1.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:09:51.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Services\\RegistrationService.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\Services\\RegistrationService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:33:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:18:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:10:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Persistence\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:25:36.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\Interfaces\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:31:11.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:37:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SenderismoClub.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
+              "RelativeToolTip": "..\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T19:11:37.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SenderismoClub.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
+              "RelativeToolTip": "..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T19:10:57.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T19:26:25.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProyectoProductosAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\ProyectoProductosAPI\\ProyectoProductosAPI\\ProyectoProductosAPI.csproj",
+              "RelativeDocumentMoniker": "..\\ProyectoProductosAPI\\ProyectoProductosAPI\\ProyectoProductosAPI.csproj",
+              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\ProyectoProductosAPI\\ProyectoProductosAPI\\ProyectoProductosAPI.csproj",
+              "RelativeToolTip": "..\\ProyectoProductosAPI\\ProyectoProductosAPI\\ProyectoProductosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T23:33:51.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Member.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Member.cs",
@@ -371,31 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Route.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Route.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Entities\\Route.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Entities\\Route.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Domain\\Entities\\Route.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:19:32.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Domain\\Enums\\Difficulty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:18:45.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Levels.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Enums\\Levels.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Enums\\Levels.cs",
@@ -407,19 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SenderismoClub.API.csproj",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\SenderismoClub.API.csproj",
-              "RelativeDocumentMoniker": "SenderismoClub.API.csproj",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.API\\SenderismoClub.API.csproj",
-              "RelativeToolTip": "SenderismoClub.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T19:14:37.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "SenderismoClub.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Infrastructure\\SenderismoClub.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Infrastructure\\SenderismoClub.Infrastructure.csproj",
@@ -427,11 +576,12 @@
               "RelativeToolTip": "..\\SenderismoClub.Infrastructure\\SenderismoClub.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T19:13:02.807Z"
+              "WhenOpened": "2026-04-07T19:13:02.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "SenderismoClub.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj",
@@ -439,71 +589,12 @@
               "RelativeToolTip": "..\\SenderismoClub.Persistence\\SenderismoClub.Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T19:12:17.82Z"
+              "WhenOpened": "2026-04-07T19:12:17.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SenderismoClub.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\SenderismoClub.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T19:11:37.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "SenderismoClub.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
-              "RelativeToolTip": "..\\SenderismoClub.Domain\\SenderismoClub.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T19:10:57.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:10:40.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Persistence\\Class1.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Persistence\\Class1.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Persistence\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:10:23.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\SenderismoClub.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Application\\Class1.cs",
-              "RelativeToolTip": "..\\SenderismoClub.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T19:09:51.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\source\\repos\\GITHUB\\ITLAHomeWork\\Proyecto de aprendizaje\\SenderismoClub.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "..\\SenderismoClub.Domain\\Class1.cs",

@@ -6,11 +6,11 @@ public class Registration
 
     
     public int MemberId { get; set; }
-    public Member Member { get; set; } = null!;
+    public Member? Member { get; set; }
 
-    
+
     public int ExcursionId { get; set; }
-    public Excursion Excursion { get; set; } = null!;
+    public Excursion? Excursion { get; set; }
 
     public bool Attended { get; set; }
 

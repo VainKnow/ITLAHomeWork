@@ -8,7 +8,7 @@ public class Excursion
 
    
     public int RouteId { get; set; }
-    public Route Route { get; set; } = null!;
+    public Route? Route { get; set; }
 
     
     public List<Registration> Registrations { get; set; } = new();
